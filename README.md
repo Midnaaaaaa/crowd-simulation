@@ -17,7 +17,7 @@ Real-time procedural navigation system in Unity featuring dynamic map generation
 ## Screenshots
 
 <p align="center">
-  <img src="Images/image.png" width="390"/>
+  <img src="image.png" width="390"/>
 </p>
 
 ---
