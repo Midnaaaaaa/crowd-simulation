@@ -17,12 +17,7 @@ Real-time procedural navigation system in Unity featuring dynamic map generation
 ## Screenshots
 
 <p align="center">
-  <img src="Images/simulation_overview.png" width="800"/>
-</p>
-
-<p align="center">
-  <img src="Images/pathfinding_debug.png" width="390"/>
-  <img src="Images/crowd_agents.png" width="390"/>
+  <img src="Images/image.png" width="390"/>
 </p>
 
 ---
